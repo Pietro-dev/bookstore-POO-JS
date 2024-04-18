@@ -1,6 +1,15 @@
 # Loja de Livros
 Este é um pequeno projeto onde pude praticar a Programação Orientada a Objetos em JavaScript. 
+## Como funciona?
+Este projeto é algo bem simples que foi criado para praticar a POO. O projeto é uma loja de livros que vende livros e posters. Você pode criar:
++ livros;
++ criar os autores dos livros;
++ criar posters;
++ cadastrar usuários;
++ criar pedidos (especificando seus itens).<br>
 
+Muitos métodos diferentes são usados para fazer isso, pois o projeto não consiste em uma aplicação web. Para que qualquer um possa testá-lo e aprender mais, vou explicar como usar os métodos principais. <br>
+Caso queira explorar as demais classes e seus métodos, deixei comentários no código para facilitar a compreensão. <br>
 ## Como executar?
 ![](https://img.shields.io/badge/node.js-node?style=flat&logo=node.js&labelColor=%23000&color=%2384D82A_)
 ![](https://img.shields.io/badge/JavaScript-js?style=flat&logo=javascript&labelColor=%23000&color=%23F1CE05)
